@@ -1,6 +1,6 @@
 # backend-challenge
 
-A proposta desse é desafio é que o candidato demonstre as suas técnicas preferidas.
+A proposta desse é desafio é que o candidato demonstre as suas técnicas preferidas. 
 
 # o que deve ser feito
 
@@ -11,6 +11,7 @@ A proposta desse é desafio é que o candidato demonstre as suas técnicas prefe
 - O serviço deve suportar BTC, ETH, USD, BRL e EUR.
 - O serviço deve guardar os histórico das últimas conversões.
 - Escrever um Readme com as instruções de como rodar o ambiente de desenvolvimento.
+- A decisão sobre a stack é do candidato (bônus se usar golang).
 
 # o que iremos avaliar
 
